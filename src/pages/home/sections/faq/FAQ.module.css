@@ -71,7 +71,7 @@
     height: 262px
 }
 
-@media (min-width: 399px){
+@media (min-width: 768px){
     .container {
         display: flex;
         padding: 50px 70px;

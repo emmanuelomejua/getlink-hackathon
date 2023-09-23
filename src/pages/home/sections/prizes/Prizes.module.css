@@ -37,7 +37,7 @@
     height: 176px;
 }
 
-@media (min-width: 399px){
+@media (min-width: 768px){
     .container {
         display: grid;
         grid-template-areas: 
